@@ -16,6 +16,8 @@
 
 ```
 $CLOBALS，$_GET ，$_POST， $_REQUEST ，$_SESSION ，$_COOKIE， $_SERVER， $_FILES， $_ENV
+$_SERVER['SERVER_ADDR']  //服务器ip
+$_SERVER['SERVER_NAME']  //服务器名称
 ```
 
 
