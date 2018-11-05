@@ -14,5 +14,9 @@
 
 4，超全局数组
 
-    $CLOBALS，$\__GET ，$\_POST， $\_REQUEST ，$\_SESSION ，$\_COOKIE， $\_SERVER， $\_FILES， $\_ENV_
+```
+$CLOBALS，$_GET ，$_POST， $_REQUEST ，$_SESSION ，$_COOKIE， $_SERVER， $_FILES， $_ENV
+```
+
+
 
